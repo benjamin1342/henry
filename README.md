@@ -1,2 +1,1 @@
-# henry
-es de prueba modulo 2
+este es un proyeto para aprender progarmar
